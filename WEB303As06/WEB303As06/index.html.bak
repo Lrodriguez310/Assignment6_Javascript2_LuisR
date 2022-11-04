@@ -1,0 +1,166 @@
+<html>
+
+<head>
+    <link href="css/style.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+</head>
+
+<body>
+
+<h1> Gliscor Bio </h1>
+
+<!--<div class="area" > -->
+    <ul class="accordion">
+		<li>
+			<button class="accordion-control">
+				<h2><b>Gliscor</b></h2>
+			</button>
+			<div class="accordion-panel">
+				<img src="gliscor2.png" alt="picture of flying bat looking pokemon" width="100%">
+				
+			    <h2> <em>Image From: Smogon.com</em> </h2>
+			</div>
+			<button class="accordion-control">
+				<h2><b>Height and Weight</b></h2>
+			</button>
+			<div class="accordion-panel">
+				<img src="gliscor.jpg" alt="Image of beautiful woman laying down posing" width="100%">
+				<h2><em>Image from: serebii.net</em></h2>
+			</div>
+			<button class="accordion-control">
+				<h2><b> Best Set</b></h2>
+			</button>
+			<div class="accordion-panel">
+				<img src="gliscor1.png" alt="picture of purple bat with best set to use" width="100%">
+				<h2><em>  Image from: Smogon.com </em></h2>
+			</div>
+		</li>
+	</ul>
+
+<h1> Gliscor </h1>
+	<ul class="accordion">
+		<li>
+			<button class="accordion-control">
+				<h2><b>Shiny Form</b></h2>
+			</button>
+			<div class="accordion-panel">
+				<img src="gliscor3.jpg" alt="Egyptian pyramids with pretty girl riding camel" width="100%">
+				<h2><em>Image from: youtube.com/gliscorshiny</em></h2>
+			</div>
+			<button class="accordion-control">
+				<h2><b>Gliscor Using Fire Fang</b></h2>
+			</button>
+			<div class="accordion-panel">
+				<img src="gliscor.gif" alt="Egyptian pyramids with pretty girl riding camel" width="100%">
+				<h2><em>Image from: AminApps.com</em></h2>
+			</div>
+			<button class="accordion-control">
+				<h2><b>Singing</b></h2>
+			</button>
+			<div class="accordion-panel">
+				<img src="Gliscor2.gif" alt="Egyptian pyramids with pretty girl riding camel" width="100%">
+				<h2><em>Image from: https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgliscor-pok%25C3%25A9mon-gliscor-happy-gif-26738755&psig=AOvVaw0314C87iRhQKY_UYpbirGx&ust=1667611154631000&source=images&cd=vfe&ved=0CA8Q3YkBahcKEwiYzYHorZP7AhUAAAAAHQAAAAAQGA</em></h2>
+			</div>
+		</li>
+	</ul>
+
+
+
+
+
+	<ul class="tab-list">
+		<li class="active">
+			<a class="tab-control" href="#tab1">About</a>
+		</li>
+		<li>
+			<a class="tab-control" href="#tab2">Techniques</a>
+		</li>
+		<li>
+			<a class="tab-control" href="#tab3">Best Fit</a>
+		</li>
+		<li>
+			<a class="tab-control" href="#tab4">Episodes</a>
+		</li>
+		<li>
+			<a class="tab-control" href="#tab5">Favorite Food</a>
+		</li>
+	</ul>
+
+	<div class="tab-panel active" id="tab1">
+		<p><h3>Gliscor (Japanese: Glion)</h3> is a dual-type Ground/Flying Pokémon introduced in Generation IV. It evolves from Gligar when leveled up holding a Razor Fang during the night. In Pokémon Legends: Arceus, it evolves from Gligar when exposed to a Razor Fang during the night, instead. </p>
+		<p>Info from: bulbapedia.com</p>
+	</div>
+	<div class="tab-panel" id="tab2">
+		<ol>
+		<li><h3><b>Hyper Cutter:</b></h3> Opponent cannot lower this Pokémon’s Attack value. This Pokémon may still lower its own Attack value using a move of by itself.</li>
+		</br> </br>
+		</br>
+		<li><h3><b>Sand Veil:</b></h3> Raises the Pokémon’s evasion during a sandstorm by one level.</li>
+		</br> </br>
+		</br>
+		<li><h3><b>Poison Heal:</b></h3> HP is restored by 1/8th the maximum HP every turn while the Pokémon has the Poison condition.</li>
+		
+        </ol>		
+		
+		<p><em> Info from: https://www.serebii.net/pokedex-xy/472.shtml </em> </p>
+	</div>
+	<div class="tab-panel" id="tab3">
+		<p><h3>Gliscor</h3> is a versatile Pokemon that can fulfill several roles: it can be a Swords Dance breaker, a Stealth Rock setter, or a Defog user. Due to its flexibility, Gliscor finds itself on many archetypes in OU, ranging from bulky offense to stall. Gliscor's amazing defensive typing, good natural bulk, and excellent recovery through Poison Heal and Roost allow it to check prominent Pokemon like Heatran and Toxapex. However, Gliscor faces competition from other Ground-types that have a superior offensive presence, 
+		such as Landorus-T and Garchomp. Moreover, its typing also leaves it prone to prominent Pokemon like Greninja, Tapu Bulu, and Mega Latias. </p>
+		
+		<p> Information from : https://www.smogon.com/</p>
+	</div>
+	<div class="tab-panel" id="tab4">
+		<h3>Episodes</h3> 
+		<p>What episode does Ash catch Gliscor?
+Pokémon the Series: Diamond and Pearl. Ash caught Gliscor as a Gligar in Riding the Winds of Change!, as it along with many other Gligar and a Gliscor, had become trapped in a city after being blown there by a violent windstorm.</p>
+	</div>
+	<div class="tab-panel" id="tab5">
+		<h3> Preferred Foods </h3>
+		<ol>
+<li>Dazzling Honey </li>
+<li>Hearty Grains </li>
+<li>Plump Beans </li>
+</ol>
+	</div>
+	
+	<script src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/script.js"></script>
+	
+	<!-- <div class="context">
+        
+    </div>
+
+
+
+            <ul class="circles">
+			        <li><img src="Yosra.jpg" alt="https://www.uwindsor.ca/dailynews/history/tags/yosra-elsayed" width="100%" height="100%"></li>
+                    <!-- <li><span>Loving<span></li> -->
+                <!--    <li><span>f</span></li>
+                    <li><span>that</span></li>
+                    <li><span>Kind</span></li>
+                    <li><span>this</span></li>
+                    <li><span>Caring</span></li>
+                    <li><span>Patient</span></li>
+                    <li><span>Enduring</span></li>
+                    <li></li>
+                    <li><span>Smart and Beautiful</span></li>
+            </ul>
+    </div > -->
+
+
+        
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
